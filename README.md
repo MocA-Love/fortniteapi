@@ -4,7 +4,6 @@
 [![GitHub License](https://img.shields.io/github/license/LlamaNite/fortniteapi)](https://github.com/LlamaNite/fortniteapi/blob/master/LICENSE)
 [![Discord](https://discordapp.com/api/guilds/621452110558527502/widget.png?style=shield)](https://fortnite-api.com/discord)
 
-</div>
 
 This library offers a complete wrapper around the endpoints of [fortnite-api.com](https://fortnite-api.com).
 
