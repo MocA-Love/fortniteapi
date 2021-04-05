@@ -1,9 +1,5 @@
 package fortniteapi
 
-import (
-	"time"
-)
-
 type Language string
 
 const (
