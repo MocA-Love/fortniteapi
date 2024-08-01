@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/LlamaNite/fortniteapi"
+	"github.com/MocA-Love/fortniteapi"
 	"fmt"
 )
 

@@ -1,7 +1,6 @@
 # Go wrapper for [Fortnite-API.com](https://fortnite-api.com)
 
-[![GitHub issues](https://img.shields.io/github/issues/LlamaNite/fortniteapi?logo=github)](https://github.com/LlamaNite/fortniteapi/issues)
-[![GitHub License](https://img.shields.io/github/license/LlamaNite/fortniteapi)](https://github.com/LlamaNite/fortniteapi/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/MocA-Love/fortniteapi?logo=github)](https://github.com/MocA-Love/fortniteapi/issues)
 [![Discord](https://discordapp.com/api/guilds/621452110558527502/widget.png?style=shield)](https://fortnite-api.com/discord)
 
 
@@ -9,7 +8,7 @@ This library offers a complete wrapper around the endpoints of [fortnite-api.com
 
 ## Installation
 
-    go get -u github.com/LlamaNite/fortniteapi
+    go get -u github.com/MocA-Love/fortniteapi
 
 ## Example:
 
@@ -17,7 +16,7 @@ This library offers a complete wrapper around the endpoints of [fortnite-api.com
 package main
 
 import (
-    "github.com/LlamaNite/fortniteapi"
+    "github.com/MocA-Love/fortniteapi"
     "fmt"
 )
 
