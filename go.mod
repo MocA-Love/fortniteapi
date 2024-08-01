@@ -1,3 +1,3 @@
-module github.com/MocA-Love/fortniteapi/v1
+module github.com/MocA-Love/fortniteapi
 
 go 1.16
